@@ -14,7 +14,7 @@ Shapr3D.dll
 00007FFDA54CDE6B   | 48:8B50 18                      | mov rdx,qword ptr ds:[rax+18]                      |
 this call here is returning address of activation object,
 quick solution is to just point to memory region that fits reqiurements in this case valid region is under rcx
-so just replace call by mov rax,rcx
+so just replace call by mov rax,rcx (48 8B C1 90 90)
 Addres 00007FFDA54CDE6F comes from memory with ASLR so in dll file You should have it under 000000018175DE6F
 00007FFDA54CDE6F   | E8 AC6B87FF                     | call shapr3d.7FFDA4D44A20 <- put here mov rax,rcx                         |
 00007FFDA54CDE74   | 48:8BD0                         | mov rdx,rax                                        |
