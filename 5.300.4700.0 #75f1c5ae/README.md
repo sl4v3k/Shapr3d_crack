@@ -9,6 +9,7 @@ Unlocking by emulation of activation object. This methos is giving full version 
 this call here is returning address of activation object,
 quick solution is to just point to memory region that fits reqiurements in this case valid region is under rcx
 so just replace call by mov rax,rcx
+Addres 00007FFCCD7CEDAB comes from memory with ASLR so in exe file You should have it under 00000001815CEDAB
 00007FFCCD7CEDAB  | E8 3031B9FF                     | call shapr3d.7FFCCD361EE0  <- put here mov rax,rcx            | ustalanie adresu obiektu rejestracji
 00007FFCCD7CEDB0  | 48:8BD0                         | mov rdx,rax                                                   |
 00007FFCCD7CEDB3  | 48:8BCE                         | mov rcx,rsi                                                   |
