@@ -2,6 +2,7 @@
 
 Unlocking by emulation of activation object. This methos is giving full version features.
 ```
+Shapr3D.dll
 00007FFCCD7CED98  | C645 01 00                      | mov byte ptr ss:[rbp+1],0                                     |
 00007FFCCD7CED9C  | 48:8D0D C50AE7FE                | lea rcx,qword ptr ds:[7FFCCC63F868]                           |
 00007FFCCD7CEDA3  | 4C:8D45 01                      | lea r8,qword ptr ss:[rbp+1]                                   |
@@ -9,7 +10,7 @@ Unlocking by emulation of activation object. This methos is giving full version 
 this call here is returning address of activation object,
 quick solution is to just point to memory region that fits reqiurements in this case valid region is under rcx
 so just replace call by mov rax,rcx
-Addres 00007FFCCD7CEDAB comes from memory with ASLR so in exe file You should have it under 00000001815CEDAB
+Addres 00007FFCCD7CEDAB comes from memory with ASLR so in dll file You should have it under 00000001815CEDAB
 00007FFCCD7CEDAB  | E8 3031B9FF                     | call shapr3d.7FFCCD361EE0  <- put here mov rax,rcx            | ustalanie adresu obiektu rejestracji
 00007FFCCD7CEDB0  | 48:8BD0                         | mov rdx,rax                                                   |
 00007FFCCD7CEDB3  | 48:8BCE                         | mov rcx,rsi                                                   |
