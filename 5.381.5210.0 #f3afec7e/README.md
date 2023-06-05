@@ -1,6 +1,6 @@
 # version 5.381.5210.0 #f3afec7e
 
-Unlocking by emulation of activation object. This methos is giving full version features.
+Unlocking by emulation of activation object. This method is giving full version features.
 ```
 Shapr3D.dll
 .text:0000000181910FB7
