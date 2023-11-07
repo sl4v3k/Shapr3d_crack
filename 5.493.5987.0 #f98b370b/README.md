@@ -24,7 +24,7 @@ Shapr3D.dll
 this call here is returning address of activation object,
 quick solution is to just point to memory region that fits reqiurements in this case valid region is under rcx
 so just replace call by mov rax,rcx (48 8B C1 90 90)
-OFFSET IN DLL FILE IS: 0x1B315C9 (in case You use hex editor)
+OFFSET IN DLL FILE IS: 0x1B2E9C9 (in case You use hex editor)
 .text:0000000181B315C9 E8 A2 D2 79 FF                          call    lic_call_1812CE870 <--------- mov rax,rcx (48 8B C1 90 90)
 .text:0000000181B315CE 48 8B F8                                mov     rdi, rax
 .text:0000000181B315D1 48 8B 8D B0 00 00 00                    mov     rcx, [rbp+0A0h+arg_0]
