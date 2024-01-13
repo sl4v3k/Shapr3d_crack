@@ -7,7 +7,7 @@ The materials and information here are guides how patch Shapr3d executable to re
 # Method
 
 * Run Shapr3D
-* run \x64\Release\Shapr3D-inmemory-patcher-2.exe
+* run \x64\Debug\Shapr3D-inmemory-patcher-2.exe
 * Done
 
 # VC Redistributables
