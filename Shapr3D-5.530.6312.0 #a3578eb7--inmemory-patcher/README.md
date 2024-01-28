@@ -1,4 +1,4 @@
-# Shapr3d 5.521.6217.0#30c67d09
+# Shapr3d 5.530.6312.0 #a3578eb7
 
 There are several ways to unlock trial version of Shapr3d app. Please check directories with specific versions to get more details. 
 Because many people are struggling with patching Microoft Store app i am releasing inmemory patcher to make life eaysier.
