@@ -1,0 +1,4 @@
+﻿  Shapr3D-inmemory-patcher-2.cpp
+C:\DATA\github-VSCode\Shapr3d_crack\Shapr3D-5.590.6756.0 #60049c57--inmemory-patcher\Shapr3D-inmemory-patcher-2\Shapr3D-inmemory-patcher-2.cpp(94,43): warning C4018: '<': signed/unsigned mismatch
+C:\DATA\github-VSCode\Shapr3d_crack\Shapr3D-5.590.6756.0 #60049c57--inmemory-patcher\Shapr3D-inmemory-patcher-2\Shapr3D-inmemory-patcher-2.cpp(101,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Shapr3D-inmemory-patcher-2.vcxproj -> C:\DATA\github-VSCode\Shapr3d_crack\Shapr3D-5.590.6756.0 #60049c57--inmemory-patcher\x64\Debug\Shapr3D-inmemory-patcher-2.exe
