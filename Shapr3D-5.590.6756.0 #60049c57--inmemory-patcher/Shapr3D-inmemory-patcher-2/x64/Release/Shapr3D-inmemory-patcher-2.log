@@ -1,8 +1,8 @@
 ﻿  Shapr3D-inmemory-patcher-2.cpp
-C:\DATA\github-VSCode\Shapr3d_crack\Shapr3D-5.552.6503.0 #a11bc56e--inmemory-patcher\Shapr3D-inmemory-patcher-2\Shapr3D-inmemory-patcher-2.cpp(94,43): warning C4018: '<': signed/unsigned mismatch
-C:\DATA\github-VSCode\Shapr3d_crack\Shapr3D-5.552.6503.0 #a11bc56e--inmemory-patcher\Shapr3D-inmemory-patcher-2\Shapr3D-inmemory-patcher-2.cpp(101,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\DATA\github-VSCode\Shapr3d_crack\Shapr3D-5.590.6756.0 #60049c57--inmemory-patcher\Shapr3D-inmemory-patcher-2\Shapr3D-inmemory-patcher-2.cpp(94,43): warning C4018: '<': signed/unsigned mismatch
+C:\DATA\github-VSCode\Shapr3d_crack\Shapr3D-5.590.6756.0 #60049c57--inmemory-patcher\Shapr3D-inmemory-patcher-2\Shapr3D-inmemory-patcher-2.cpp(101,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Generating code
   Previous IPDB not found, fall back to full compilation.
   All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  Shapr3D-inmemory-patcher-2.vcxproj -> C:\DATA\github-VSCode\Shapr3d_crack\Shapr3D-5.552.6503.0 #a11bc56e--inmemory-patcher\x64\Release\Shapr3D-inmemory-patcher-2.exe
+  Shapr3D-inmemory-patcher-2.vcxproj -> C:\DATA\github-VSCode\Shapr3d_crack\Shapr3D-5.590.6756.0 #60049c57--inmemory-patcher\x64\Release\Shapr3D-inmemory-patcher-2.exe
