@@ -1,7 +1,7 @@
 # Shapr3d 5.603.6875.0 #40c93214
 
-Starting from 5.603.6875.0 #40c93214 version theres is new wy of patching. Previous hole is patched by Shapr3D team.
-But there are still several ways to unlock trial version of Shapr3d app.  
+Starting from 5.603.6875.0 #40c93214 version there is new way of patching. Previous hole is patched by Shapr3D team.
+But there are still several ways to unlock trial version.  
 The materials and information here are guides how patch Shapr3d executable to remove trial limitations. All this is for study and educational purpose.
 
 # Method
