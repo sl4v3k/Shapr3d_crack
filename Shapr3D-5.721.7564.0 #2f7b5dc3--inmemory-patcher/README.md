@@ -1,4 +1,4 @@
-# Shapr3d 5.603.6875.0 #40c93214
+# Shapr3d 5.721.7564.0 #2f7b5dc3
 
 Starting from 5.603.6875.0 #40c93214 version there is new way of patching. Previous hole is patched by Shapr3D team.
 But there are still several ways to unlock trial version.  
