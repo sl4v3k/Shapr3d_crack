@@ -23,6 +23,7 @@ Please Follow Each Step Carefully
 * If you see Shapr found!, then you know the patch has been applied.
 * Close the Command Prompt
 * Enjoy!
+* Note that from version 5.961.9619.0 You have to open one of the free project to refresh the view state!!
 
 # VC Redistributables
 
