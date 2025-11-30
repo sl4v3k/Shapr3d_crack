@@ -1,0 +1,11 @@
+﻿  Shapr3D-inmemory-patcher-2.cpp
+C:\DATA\github-VSCode\Shapr3D-5.1000.9923.0 #0593948b--inmemory-patcher\Shapr3D-inmemory-patcher-2\Shapr3D-inmemory-patcher-2.cpp(94,43): warning C4018: '<': signed/unsigned mismatch
+C:\DATA\github-VSCode\Shapr3D-5.1000.9923.0 #0593948b--inmemory-patcher\Shapr3D-inmemory-patcher-2\Shapr3D-inmemory-patcher-2.cpp(101,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  5 of 6 functions (83.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Shapr3D-inmemory-patcher-2.vcxproj -> C:\DATA\github-VSCode\Shapr3D-5.1000.9923.0 #0593948b--inmemory-patcher\x64\Release\Shapr3D-inmemory-patcher-2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
